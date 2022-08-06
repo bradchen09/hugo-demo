@@ -1,4 +1,4 @@
-baseURL: “”
+baseURL: “https://lucent-capybara-8f77c2.netlify.app/”
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
@@ -17,6 +17,6 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
-      
+
 
     

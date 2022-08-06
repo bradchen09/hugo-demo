@@ -3,7 +3,7 @@ title: "First"
 date: 2022-08-06T11:30:01-07:00
 draft: false
 cover:
-    image: img/stock.png
+    image: img/snowmountain.jpg
     alt: 'This is a post image'
     caption: 'This is the caption'
 tags: ["html", "css"]
